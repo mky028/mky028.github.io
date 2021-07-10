@@ -1,7 +1,7 @@
 # main links
 main:
   -title: "categories"
-   url: "https://mky028.github.io/categories/"
+   url: /categories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
