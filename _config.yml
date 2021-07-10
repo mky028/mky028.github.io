@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "파란고래"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Park MinKyeong"
-description              : "만드는 중"
+name                     : "PMK"
+description              : "편하게 쓰는 블로그"
 url                      : "https://mky028.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Park MinKyeong"
+  name             : "파란고래"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Taking Notes"
   location         : "Seoul, Korea"
