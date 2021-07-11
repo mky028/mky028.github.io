@@ -13,8 +13,8 @@ categories:
 
 tages:
 
-	- Essay
-	- 영어공부
+- Essay
+- 영어공부
 ---
 
 ###### Link: [Youtube](https://www.youtube.com/watch?v=LXmtsIYsYjY)
