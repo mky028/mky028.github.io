@@ -16,10 +16,9 @@ tages:
 - Essay
 - 영어공부
 ---
-
+# Why U.S. Presidents Can't Win The War On Drugs
+## Writing an essay after watching the video.
 ###### Link: [Youtube](https://www.youtube.com/watch?v=LXmtsIYsYjY)
-
-
 
  Some people might say that the government should keep activating the war on drugs. However, I think the government need to make the drugs to be used legally. And there are three reasons why.
 
