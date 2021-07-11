@@ -1,8 +1,7 @@
+---
 title: "Why U.S. Presidents Can't Win The War On Drugs"
 
-=====
-
-Writing an essay after watching the video.
+excerpt: "Writing an essay after watching the video."
 
 ---
 
