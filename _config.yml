@@ -283,6 +283,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      date: true
       read_time: true
       comments: true
       share: #
