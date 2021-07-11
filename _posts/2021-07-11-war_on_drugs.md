@@ -3,7 +3,7 @@ title: "Why U.S. Presidents Can't Win The War On Drugs"
 
 excerpt: "Writing an essay after watching the video."
 
----
+date: 2021-07-11
 
 layout: single
 
@@ -15,6 +15,7 @@ tages:
 
 	- Essay
 	- 영어공부
+---
 
 ###### Link: [Youtube](https://www.youtube.com/watch?v=LXmtsIYsYjY)
 
