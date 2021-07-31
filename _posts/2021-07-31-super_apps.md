@@ -1,9 +1,9 @@
-title: "What is a super app, and why haven’t they gone global?"
-=====
-
-Writing an essay after watching the video.
-
 ---
+title: "What is a super app, and why haven’t they gone global?"
+
+excerpt: "Writing an essay after reading the article."
+
+date: 2021-07-31
 
 layout: single
 
@@ -13,11 +13,12 @@ categories:
 
 tages:
 
-	- Essay
-	- 영어공부
+- Essay
+- 영어공부
+---
 
+# What is a super app, and why haven’t they gone global?
 ###### Link: [Youtube](https://youtu.be/cLANTiDd8Ok)
-
 
 These days, it is hard to see people who don't use cell phone. Lots of people download the application whenever they need. Popular applications are now aiming to be a super app. A super app is a mobile app which allows a user to access several services. In South Korea, there is a famous super app called KaKaoTalk, which was launched with chatting service. It is now becoming a super app, which covers from hailing a cab to bank service. Super apps might be unfamiliar to people who were using an application for its only one service. However, I am supportive on this development of these mobile applications. And there are some reasons why.
 
