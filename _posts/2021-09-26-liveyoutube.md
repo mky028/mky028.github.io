@@ -17,8 +17,13 @@ tages:
 - lofi
 ---
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/SmCa3GMVNIM?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
 <div class="videowrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SmCa3GMVNIM" frameborder="0" allowfullscreen></iframe>
 </div>
+
+아래에 플레이버튼까지 들어간다.
+~~~
+<div class="videowrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/url주소뒷부분" frameborder="0" allowfullscreen></iframe>
+</div>
+~~~
