@@ -18,6 +18,11 @@ tages:
 - Early birds
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_XuAbRW5-3xzzlcCZgPAdiScxkUd-zboWIVeYbXCXSAxJlAHsorgUTXCbKTJODNAhtUJ1_zeFqQzX/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_XuAbRW5-3xzzlcCZgPAdiScxkUd-zboWIVeYbXCXSAxJlAHsorgUTXCbKTJODNAhtUJ1_zeFqQzX/pubhtml?gid=0&amp;
+             frameborder ='0';
+             scrolling='no';
+             style="overflow-x:hidden; overflow:auto; width:100%; min-height:500px;";
+             single=true&amp;
+             widget=true&amp;
+             headers=false">
 </iframe>
-
