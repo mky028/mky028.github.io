@@ -17,5 +17,6 @@ tages:
 - Miracle morning
 - Early birds
 ---
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_XuAbRW5-3xzzlcCZgPAdiScxkUd-zboWIVeYbXCXSAxJlAHsorgUTXCbKTJODNAhtUJ1_zeFqQzX/pubhtml?gid=0&amp;frameborder=0&amp;scrolling=no&amp;width=100%&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
+<div class="iframebox">
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_XuAbRW5-3xzzlcCZgPAdiScxkUd-zboWIVeYbXCXSAxJlAHsorgUTXCbKTJODNAhtUJ1_zeFqQzX/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" allowfullscreen></iframe>
+</div>
